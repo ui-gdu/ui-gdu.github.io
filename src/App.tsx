@@ -449,7 +449,13 @@ const SponsorsSection: React.FC = () => (
           component="img"
           src='/gdu/sponsors/lightcast.jpg'
           alt="Lightcast"
-          sx={{ height: 256, mb: 2 }}
+          sx={{
+            height: 256,
+            width: 'auto',
+            maxWidth: '100%',
+            mb: 2,
+            objectFit: 'contain',
+          }}
         />
       </Box>
     </Box>
