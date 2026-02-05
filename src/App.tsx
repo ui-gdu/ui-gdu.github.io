@@ -401,6 +401,7 @@ const mediaImages = [
   '/events/s2025.jpg',
   '/events/team_at_breakfast_jam4.jpg',
   '/events/team_breakfast.webp',
+  '/events/winner_pizza.png',
 ];
 
 const MediaSection: React.FC = () => (
