@@ -288,16 +288,8 @@ const testimonials = [
       'Club has improved my social life.',
   },
   {
-    name: 'Trashmage',
-    quote: 'uh',
-  },
-  {
     name: 'Jake',
     quote: 'Stayed up till 2 AM desparately trying to get my game together as it was doing everything in its power to break. 10/10',
-  },
-  {
-    name: 'Qwertyay',
-    quote: 'Oops! All Spaghetti!',
   },
   {
     name: 'Rowan D',
@@ -305,8 +297,20 @@ const testimonials = [
   },
   {
     name: 'Adam',
-    quote: 'Too much scope creep, not enough red bull and boo berry. Still worth it.',
+    quote: 'Too much scope creep, not enough Red Bull and Boo Berry. Still worth it.',
   },
+  {
+    name: 'Ben R',
+    quote: 'I\'ve made some fantastic memories, video games, and friends through my participation in this club! I strongly recommend the game jams to anyone who wants to make video games.',
+  },
+  // {
+  //   name: 'Qwertyay',
+  //   quote: 'Oops! All Spaghetti!',
+  // },
+  // {
+  //   name: 'Trashmage',
+  //   quote: 'uh',
+  // },
 
 
 
@@ -317,16 +321,8 @@ const testimonials = [
       'Club has improved my social life.',
   },
   {
-    name: 'Trashmage',
-    quote: 'uh',
-  },
-  {
     name: 'Jake',
     quote: 'Stayed up till 2 AM desparately trying to get my game together as it was doing everything in its power to break. 10/10',
-  },
-  {
-    name: 'Qwertyay',
-    quote: 'Oops! All Spaghetti!',
   },
   {
     name: 'Rowan D',
@@ -334,7 +330,11 @@ const testimonials = [
   },
   {
     name: 'Adam',
-    quote: 'Too much scope creep, not enough red bull and boo berry. Still worth it.',
+    quote: 'Too much scope creep, not enough Red Bull and Boo Berry. Still worth it.',
+  },
+    {
+    name: 'Ben R',
+    quote: 'I\'ve made some fantastic memories, video games, and friends through my participation in this club! I strongly recommend the game jams to anyone who wants to make video games.',
   },
 ];
 
