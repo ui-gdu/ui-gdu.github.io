@@ -303,6 +303,14 @@ const testimonials = [
     name: 'Ben R',
     quote: 'I\'ve made some fantastic memories, video games, and friends through my participation in this club! I strongly recommend the game jams to anyone who wants to make video games.',
   },
+  {
+    name: 'Devon B',
+    quote: 'Many passionate people keep this club afloat. If you\'re passionate about games (even just playing them), why not stop by and say hi?',
+  },
+  {
+    name: 'Sans',
+    quote: 'human, I remember you\'re game jams',
+  },
   // {
   //   name: 'Qwertyay',
   //   quote: 'Oops! All Spaghetti!',
@@ -335,6 +343,14 @@ const testimonials = [
     {
     name: 'Ben R',
     quote: 'I\'ve made some fantastic memories, video games, and friends through my participation in this club! I strongly recommend the game jams to anyone who wants to make video games.',
+  },
+  {
+    name: 'Devon B',
+    quote: 'Many passionate people keep this club afloat. If you\'re passionate about games (even just playing them), why not stop by and say hi?',
+  },
+  {
+    name: 'Sans',
+    quote: 'human, I remember you\'re game jams',
   },
 ];
 
