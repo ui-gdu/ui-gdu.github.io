@@ -7,7 +7,6 @@ import {
   Card,
   CardMedia,
   CardActionArea,
-  Paper,
 } from '@mui/material';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { useKeenSlider } from 'keen-slider/react'
@@ -23,7 +22,6 @@ import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemText from '@mui/material/ListItemText';
-import { FormatItalic } from '@mui/icons-material';
 
 // Clean modern light theme
 const theme = createTheme({
