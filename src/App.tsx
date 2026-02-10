@@ -7,6 +7,7 @@ import {
   Card,
   CardMedia,
   CardActionArea,
+  Paper,
 } from '@mui/material';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { useKeenSlider } from 'keen-slider/react'
@@ -22,6 +23,7 @@ import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemText from '@mui/material/ListItemText';
+import { FormatItalic } from '@mui/icons-material';
 
 // Clean modern light theme
 const theme = createTheme({
@@ -477,11 +479,28 @@ const SponsorsSection: React.FC = () => (
       </Box>
     </Box>
 
+    
+
     <Typography
       variant="body1"
       align="center"
       sx={{ mt: 8, maxWidth: 760, mx: 'auto', fontSize: '1.15rem' }}
     >
+      <Typography variant="h6" align='justify' fontStyle='italic'>
+        "It has been Lightcast's honor to support Game Developers United over the past year,
+        and for years to come. Seeing the passion of these engineers and the innovation that
+        goes into the games they create gives us inspiration to continue pushing new
+        boundaries and highlights the capabilities of the next generation of software engineers."
+      </Typography>
+
+      <br/>
+      <Typography variant="h6">
+        - Lightcast Team
+      </Typography>
+
+      <br/>
+      <br/>
+      <br/>
       A heartfelt thank you to Lightcast. 
       Your support makes these creative weekends possible and helps grow the game developer community.
     </Typography>
