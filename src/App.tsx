@@ -407,7 +407,7 @@ const mediaImages = [
   '/events/jam5_fc2026/baking_club_cookies.jpg',
   '/events/jam5_fc2026/baking_club.jpg',
   '/events/jam5_fc2026/overall_winner.jpg',
-  '/events/jam5_fc2026/ran.jpg',
+  '/events/jam5_fc2026/pan.jpg',
   '/events/jam5_fc2026/prizes_d.jpg',
   '/events/jam5_fc2026/prizes_j.jpg',
   '/events/jam5_fc2026/winner1.jpg',
