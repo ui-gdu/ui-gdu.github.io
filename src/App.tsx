@@ -402,6 +402,17 @@ const mediaImages = [
   '/events/team_at_breakfast_jam4.jpg',
   '/events/team_breakfast.webp',
   '/events/winner_pizza.png',
+
+  // Jam5 Fall 2026
+  '/events/jam5_fc2026/baking_club_cookies.jpg',
+  '/events/jam5_fc2026/baking_club.jpg',
+  '/events/jam5_fc2026/overall_winner.jpg',
+  '/events/jam5_fc2026/ran.jpg',
+  '/events/jam5_fc2026/prizes_d.jpg',
+  '/events/jam5_fc2026/prizes_j.jpg',
+  '/events/jam5_fc2026/winner1.jpg',
+  '/events/jam5_fc2026/winner2.jpg',
+  '/events/jam5_fc2026/winner3.jpg',
 ];
 
 const MediaSection: React.FC = () => (
