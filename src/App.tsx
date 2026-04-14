@@ -30,7 +30,7 @@ import JamDetails from './JamDetails';
 const theme = createTheme({
   palette: {
     mode: 'light',
-    primary: { main: '#1976d2' },
+    primary: { main: '#f1b300' },
     secondary: { main: '#d81b60' },
     background: { default: '#f8f9fa', paper: '#ffffff' },
   },
