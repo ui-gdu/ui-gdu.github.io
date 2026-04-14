@@ -204,8 +204,11 @@ const PastGamesSection: React.FC = () => (
       size="large"
       href="https://uidaho-gdu.itch.io/"
       target="_blank"
-      sx={{ px: 6, py: 1.8, fontSize: '1.25rem' }}
-      align="center"
+      sx={{ px: 6, py: 1.8, 
+           fontSize: '1.25rem', 
+           display: 'block',
+           mx: 'auto',
+           align: 'center' }}
     >
       View all the games
     </Button>
