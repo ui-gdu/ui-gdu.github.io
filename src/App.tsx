@@ -184,6 +184,12 @@ const WhenWhereSection: React.FC = () => (
       Date: {JamDetails.openingDate} <br/>
       Time: {JamDetails.openingTime} <br/>
     </Typography>
+    <Typography variant="h4" gutterBottom>LAN Party</Typography>
+    <Typography variant="body1" sx={{ maxWidth: 780, mx: 'auto', fontSize: '1.15rem', lineHeight: 1.7 }}>
+      Location: {JamDetails.location} <br/>
+      Date: {JamDetails.lanPartyDate} <br/>
+      Time: {JamDetails.lanPartyTime} <br/>
+    </Typography>
     <Typography variant="h4" gutterBottom>Closing Ceremony</Typography>
     <Typography variant="body1" sx={{ maxWidth: 780, mx: 'auto', fontSize: '1.15rem', lineHeight: 1.7 }}>
       Location: {JamDetails.location} <br/>
