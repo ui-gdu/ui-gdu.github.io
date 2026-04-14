@@ -199,16 +199,19 @@ const PastGamesSection: React.FC = () => (
       Games from Previous Jams
     </Typography>
     <Button
-      variant="contained"
-      color="primary"
-      size="large"
-      href="https://uidaho-gdu.itch.io/"
-      target="_blank"
-      sx={{ px: 6, py: 1.8, 
-           fontSize: '1.25rem', 
-           display: 'block',
-           mx: 'auto',
-           align: 'center' }}
+variant="contained"
+  color="primary"
+  size="large"
+  href="https://uidaho-gdu.itch.io/"
+  target="_blank"
+  sx={{ 
+    px: 6, 
+    py: 1.8, 
+    fontSize: '1.25rem',
+    display: 'block', // Necessary for margin auto to work
+    mx: 'auto',      // Centers horizontally
+    width: 'fit-content' 
+  }}
     >
       View all the games
     </Button>
