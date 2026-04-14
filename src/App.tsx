@@ -494,7 +494,7 @@ const NavBar = () => {
       <AppBar position="fixed" color="default">
         <Toolbar sx={{ justifyContent: 'space-between' }}>
           <Box sx={{ display: 'flex', alignItems: 'center' }}>
-            <Box component="img" src="/logo.png" alt="Logo" sx={{ height: 64, mr: 1 }} />
+            <Box component="img" src="/gdc_logo.png" alt="Logo" sx={{ height: 64, mr: 1 }} />
             <Typography variant="h6">Game Devs United</Typography>
           </Box>
 
