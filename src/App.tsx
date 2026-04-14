@@ -213,7 +213,7 @@ variant="contained"
     width: 'fit-content' 
   }}
     >
-      View all the games
+      View All the Games on GDU's Itch Page!
     </Button>
     <Grid container spacing={4} justifyContent="center" sx={{ mt: 5 }}>
       {pastGames.map((game, i) => (
