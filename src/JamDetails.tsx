@@ -9,6 +9,10 @@ export default {
     openingDate: "April 17 (Friday)",
     openingTime: "5:00 PM",
 
+    // Lan Party
+    lanPartyDate: "April 20 (Monday)",
+    lanPartyTime: "5:15 PM",
+
     // Closing ceremony
     closingDate: "April 24 (Friday)",
     closingTime: "5:00 PM",
