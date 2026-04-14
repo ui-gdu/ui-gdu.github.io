@@ -198,23 +198,23 @@ const PastGamesSection: React.FC = () => (
     <Typography variant="h2" align="center" gutterBottom>
       Games from Previous Jams
     </Typography>
-    <Button
-variant="contained"
-  color="primary"
-  size="large"
-  href="https://uidaho-gdu.itch.io/"
-  target="_blank"
-  sx={{ 
-    px: 6, 
-    py: 1.8, 
-    fontSize: '1.25rem',
-    display: 'block', // Necessary for margin auto to work
-    mx: 'auto',      // Centers horizontally
-    width: 'fit-content' 
-  }}
-    >
-      View All the Games on GDU's Itch Page!
-    </Button>
+//     <Button
+//variant="contained"
+  //color="primary"
+  //size="large"
+  //href="https://uidaho-gdu.itch.io/"
+  //target="_blank"
+  //sx={{ 
+  //  px: 6, 
+  //  py: 1.8, 
+  //  fontSize: '1.25rem',
+  //  display: 'block', // Necessary for margin auto to work
+  //  mx: 'auto',      // Centers horizontally
+  //  width: 'fit-content' 
+  //}}
+   // >
+    //  View All the Games on GDU's Itch Page!
+    //</Button>
     <Grid container spacing={4} justifyContent="center" sx={{ mt: 5 }}>
       {pastGames.map((game, i) => (
         <Grid key={i}>
