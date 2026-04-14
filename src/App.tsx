@@ -178,6 +178,7 @@ const WhenWhereSection: React.FC = () => (
     </Typography>
 
     <Typography variant="h3" gutterBottom>{JamDetails.name}</Typography>
+    <br/>
     <Typography variant="h4" gutterBottom>Opening Ceremony</Typography>
     <Typography variant="body1" sx={{ maxWidth: 780, mx: 'auto', fontSize: '1.15rem', lineHeight: 1.7 }}>
       Location: {JamDetails.location} <br/>
