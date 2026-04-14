@@ -1,4 +1,7 @@
 export default {
+    // The name of the game jam
+    name: "Game Jam #6",
+
     // The location for the opening and closing ceremony
     location: "Janssen Engineering Building (JEB) 126 - Think Tank",
 
