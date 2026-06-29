@@ -238,10 +238,10 @@ const PastGamesSection: React.FC = () => (
                   component="img"
                   image={game.image}
                   alt={game.title}
-                  sx={{ 
-                    height: 260, 
-                    objectFit: 'cover',
-                    width: '100%'
+                  sx={{
+                    height: 200,
+                    width: `${(315 / 250) * 200}px`, // ~327.6px
+                    objectFit: 'contain',
                   }}
                 />
                 <Box
