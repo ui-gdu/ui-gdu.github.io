@@ -57,5 +57,5 @@ export default [
   { title: 'EGGSAC!', image: '/games/eggsac.png', link: 'https://squidchip.itch.io/eccsac' },
   { title: 'Don\'t Steal My Bacon', image: '/games/dont_steal_my_bacon.png', link: 'https://wrello.itch.io/dont-steal-my-bacon' },
   { title: 'AldHome', image: '/games/aldhome.png', link: 'https://azukhuln.itch.io/alderhome' },
-  { title: 'Egg Roller Unknown', image: '/games/egg_roller_unknown.png', link: 'https://jumbo78.itch.io/egg-roller-unknown' },
+  { title: 'Egg Roller Unknown', image: '/games/egg_roller_unknown.gif', link: 'https://jumbo78.itch.io/egg-roller-unknown' },
 ];
