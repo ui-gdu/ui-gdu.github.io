@@ -46,4 +46,16 @@ export default [
   { title: 'Raptor Hunter', image: '/games/raptor_hunter.png', link: 'https://squidchip.itch.io/raptor-hunter' },
   { title: 'Jurassic Stronghold', image: '/games/jurassic_stronghold.png', link: 'https://proph-et.itch.io/jurassic-stronghold' },
   { title: 'Combatisaurs', image: '/games/combatisaurs.png', link: 'https://wrello.itch.io/combatisaurs' },
+
+  // jam 6
+  { title: 'Eggmageddon', image: '/games/eggmageddon.png', link: 'https://skiddopp.itch.io/eggmageddon' },
+  { title: 'Egg Rolls', image: '/games/egg_rolls.png', link: 'https://h-dawg2026.itch.io/egg-rolls' },
+  { title: 'Scramble', image: '/games/scramble.png', link: 'https://socksnsandles.itch.io/scramble' },
+  { title: 'Egg Clicker', image: '/games/egg_clicker.png', link: 'https://thetcgguy.itch.io/egg-clicker' },
+  { title: 'Cheep Cheep Gets to the Beginning', image: '/games/cheep_cheep_gets_to_the_beginning.png', link: 'https://waxm.itch.io/cheep-cheep-gets-to-the-beginning' },
+  { title: 'Egg Life', image: '/games/egg_life.png', link: 'https://extreme-kitten.itch.io/egg-life' },
+  { title: 'EGGSAC!', image: '/games/eggsac.png', link: 'https://squidchip.itch.io/eccsac' },
+  { title: 'Don\'t Steal My Bacon', image: '/games/dont_steal_my_bacon.png', link: 'https://wrello.itch.io/dont-steal-my-bacon' },
+  { title: 'AldHome', image: '/games/aldhome.png', link: 'https://azukhuln.itch.io/alderhome' },
+  { title: 'Egg Roller Unknown', image: '/games/egg_roller_unknown.png', link: 'https://jumbo78.itch.io/egg-roller-unknown' },
 ];
