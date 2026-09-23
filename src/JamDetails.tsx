@@ -6,14 +6,14 @@ export default {
     location: "Janssen Engineering Building (JEB) 126 - Think Tank",
 
     // Opening ceremony
-    openingDate: "TBA", // Example: "April 17 (Friday)",
-    openingTime: "TBA", // Example: "5:00 PM",
+    openingDate: "Friday October 9", // Example: "April 17 (Friday)",
+    openingTime: "5:00 PM", // Example: "5:00 PM",
 
     // Lan Party
-    lanPartyDate: "TBA", // Example: "April 20 (Monday)",
-    lanPartyTime: "TBA", // Example "5:15 PM",
+    lanPartyDate: "Wednesday October 14", // Example: "April 20 (Monday)",
+    lanPartyTime: "5:00 PM", // Example "5:15 PM",
 
     // Closing ceremony
-    closingDate: "TBA", // Example: "April 24 (Friday)",
-    closingTime: "TBA", // Example: "5:00 PM",
+    closingDate: "Friday October 16", // Example: "April 24 (Friday)",
+    closingTime: "5:00 PM", // Example: "5:00 PM",
 }
