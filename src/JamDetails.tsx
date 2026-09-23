@@ -3,7 +3,9 @@ export default {
     name: "Game Jam #7",
 
     // The location for the opening and closing ceremony
-    location: "Janssen Engineering Building (JEB) 126 - Think Tank",
+    openingLocation: "Janssen Engineering Building (JEB) 126 - Think Tank",
+    lanLocation: "Janssen Engineering Building (JEB) 328",
+    closingLocation: "Janssen Engineering Building (JEB) 126 - Think Tank",
 
     // Opening ceremony
     openingDate: "Friday October 9", // Example: "April 17 (Friday)",
