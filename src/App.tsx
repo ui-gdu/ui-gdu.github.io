@@ -222,7 +222,7 @@ const PastGamesSection: React.FC = () => (
          width: 'fit-content' 
        }}
     >
-      View All the Games on GDU's Itch Page!
+      View All the Games on GDC's Itch Page!
     </Button>
     <Grid container spacing={4} justifyContent="center" sx={{ mt: 5 }}>
       {pastGames.map((game, i) => (
@@ -521,7 +521,7 @@ const NavBar = () => {
         <Toolbar sx={{ justifyContent: 'space-between' }}>
           <Box sx={{ display: 'flex', alignItems: 'center' }}>
             <Box component="img" src="/gdc_logo.png" alt="Logo" sx={{ height: 64, mr: 1 }} />
-            <Typography variant="h6">Game Devs United</Typography>
+            <Typography variant="h6">Game Development Club</Typography>
           </Box>
 
           <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 2 }}>
